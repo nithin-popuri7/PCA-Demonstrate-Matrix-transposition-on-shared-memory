@@ -28,6 +28,7 @@ Save and execute the program.
 Developed By:P.Siva Naga Nithin
 Reg.No:212221240037
 ```
+```
 #include "common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
