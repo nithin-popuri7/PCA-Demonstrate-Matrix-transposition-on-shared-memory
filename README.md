@@ -336,8 +336,8 @@ root@MidPC:/home/student/Desktop# nvprof ./a.out
                     0.00%     240ns         1     240ns     240ns     240ns  cuDeviceGetUuid
 root@MidPC:/home/student/Desktop# 106
 
-![4](https://github.com/nithin-popuri7/PCA-Demonstrate-Matrix-transposition-on-shared-memory/assets/94154780/236604cd-62d0-4ce5-a939-188c6a24b669)
-```
+![4](https://github.com/nithin-popuri7/PCA-Demonstrate-Matrix-transposition-on-shared-memory/assets/94154780/7ef00a9d-806c-4a20-9776-ebdb496990f0)
+
 
 ## Result:
 The Matrix transposition on shared memory with grid (1,1) block (16,16) is demonstrated successfully.
